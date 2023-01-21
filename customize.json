@@ -2,7 +2,7 @@
   "greeting": "Hiya",
   "name": "宁宁",
   "greetingText": "很高兴认识你",
-  "wishText": "May the love always be with you! ;)",
+ // "wishText": "May the love always be with you! ;)",
   "imagePath": "img/wish.jpg",
   "text1": "希望你今年一切顺利 :D",
   "textInChatBox": "给您以及家人拜个早年啦！",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "最",
   "bigTextPart2": "后",
-  "wishHeading": "   新年快乐",
+  "wishHeading": "   May the love and joy always be with you! ;)",
   "outroText": "希望你喜欢",
   "replayText": "点击，再看一次",
   "outroSmiley": ":)"
